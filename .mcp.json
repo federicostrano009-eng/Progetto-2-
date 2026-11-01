@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "freellmpool": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": ["freellmpool==0.13.0", "mcp"]
+    }
+  }
+}
